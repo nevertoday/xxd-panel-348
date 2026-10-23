@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 348"
+  short_description: "图鉴墨点：上半保留原照，下半把主体转成最好认的侧面标本姿态，全部用一种深墨点出来，暗处密、亮处只剩一排点，浅色平涂底配图鉴条目文字"
+  default_prompt: "Use $xxd-panel-348 to transform my photograph following the complete canonical source brief."
