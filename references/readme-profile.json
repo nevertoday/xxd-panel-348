@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 348｜Field-Guide Stipple: keeps the photo and admits its subject to an old natural-history field guide — turned side-on like a specimen and drawn entirely in hand-placed dots of one near-black ink, dense in shadow, a single row of dots along lit edges and never one continuous line, with the one thing beside it reduced to broken dotted runs, laid diagonally on a flat pale ground tinted from the photo, with no second colour; the text reads like a field-guide entry, with a small entry number, a playful common name in two languages and an italic pseudo-Latin name plus a category word; any Chinese is Simplified. Scenes are reduced to one representative element. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-348 or asks for stippling, a pen dot specimen plate or a field-guide illustration from a photo.",
+  "short_description": "图鉴墨点：把照片主体转成侧面标本姿态，用单色墨点点成老博物图鉴里的一页",
+  "zh-CN": {
+    "name": "图鉴墨点",
+    "tagline": "把照片主体请进老博物图鉴，用同一种墨一点一点点成标本插图。",
+    "look": "主体被转成最好认的侧面标本姿态，全部用同一种近黑的墨点点出来：暗处密得几乎连成一片，过渡处渐渐变稀，受光面留空，只在边上排一行细点，画面里没有一条连续的实线。点的大小几乎一样，排列带着手工的不匀，身边那样东西只用几段断续的点线带过。主体沿对角线斜放在一整块从照片调淡的浅色底上，除了墨色没有第二种颜色。文字照图鉴条目来写：左上一个小编号和两种语言的俗名，底部一行斜体衬线的拉丁式学名加一个类别词，正经里藏着一点玩笑。",
+    "traits": [
+      "单色墨点点描",
+      "无连续实线",
+      "侧面标本姿态",
+      "浅色平涂底",
+      "图鉴条目俗名",
+      "斜体伪拉丁学名"
+    ],
+    "good": [
+      "侧影很好认的动物：一头犀牛、一只乌龟、一只停在树枝上的鸟",
+      "形体清楚的器物或植物：一辆老自行车、一颗松果、一把椅子",
+      "构图差、背景乱、主体很小的野外或街头照片，会被单独请进图鉴"
+    ],
+    "poor": [
+      "依赖色彩或正面表情才能认出的照片，这里只有一种墨色和侧影",
+      "需要整条街、整片风景或多人关系的需求，这里只画一个单体",
+      "想要彩色写实插画、灰色晕染、线描勾边或整齐网点效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Field-Guide Stipple",
+    "tagline": "Admits the subject of your photo to an old field guide, drawn dot by dot in a single ink.",
+    "look": "The subject is turned to its most recognisable side-on specimen pose and drawn entirely in dots of one near-black ink: almost solid in the shadows, thinning through the transitions, left empty where the light falls with just a single row of fine dots along the edge, and never one continuous line. The dots are nearly the same size and set with a hand's unevenness, and the one thing beside the subject is reduced to a few broken dotted runs. The subject lies diagonally on one flat pale ground tinted from the photo, with no colour other than the ink. Text follows a field-guide entry: a small number and a common name in two languages at top left, and along the bottom an italic serif pseudo-Latin name plus a category word, straight-faced with a hidden joke.",
+    "traits": [
+      "One-ink stippling",
+      "No continuous lines",
+      "Side-on specimen pose",
+      "Flat pale ground",
+      "Field-guide common name",
+      "Italic pseudo-Latin name"
+    ],
+    "good": [
+      "Animals with a recognisable side view: a rhino, a tortoise, a bird on a branch",
+      "Objects or plants with a clear shape: an old bicycle, a pine cone, a chair",
+      "Wild or street photos with weak composition, messy backgrounds or a small subject, which get admitted to the guide on their own"
+    ],
+    "poor": [
+      "Photos that need colour or a front-on expression to be recognised, since there is only one ink and a side view",
+      "Requests for a whole street, landscape or group of people, since only one element is drawn",
+      "Requests for realistic colour illustration, grey washes, line outlines or an even halftone grid"
+    ]
+  },
+  "ja": {
+    "name": "図鑑の点描",
+    "tagline": "写真の主役を古い博物図鑑に迎え入れ、一色のインクの点だけで標本画にします。",
+    "look": "主役はいちばん見分けやすい横向きの標本の姿勢に置き直され、すべて同じ黒に近いインクの点で描かれます。暗いところはほとんど一面になるほど密に、移り変わりでは少しずつまばらに、光の当たる面は空けて縁にだけ細かな点を一列並べ、画面に連続した実線は一本もありません。点の大きさはほぼ同じで、並びには手仕事のむらがあり、そばにある一つの物は途切れ途切れの点線で軽く示すだけです。主役は写真から淡く取った一面の淡色の地に対角線に沿って置かれ、インク以外の色はありません。文字は図鑑の項目のように、左上に小さな番号と二つの言語の俗名、下に斜体のセリフ体で書いたラテン語風の学名と分類語。大真面目な中に小さな冗談が隠れています。",
+    "traits": [
+      "一色のインク点描",
+      "連続した線なし",
+      "横向きの標本の姿勢",
+      "淡色の平塗りの地",
+      "図鑑の俗名",
+      "斜体のラテン語風学名"
+    ],
+    "good": [
+      "横顔でわかる動物：サイ、カメ、枝にとまる鳥",
+      "形のはっきりした道具や植物：古い自転車、松ぼっくり、椅子",
+      "構図が平凡、背景が散らかっている、主役が小さい野外や街の写真（単独で図鑑に迎えます）"
+    ],
+    "poor": [
+      "色や正面の表情がないと見分けられない写真（インク一色と横姿だけです）",
+      "通り全体、風景全体、複数人の関係が必要な場合（一つの単体だけを描きます）",
+      "写実的なカラーイラスト、灰色のぼかし、線画の輪郭、規則正しい網点を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "도감 점묘",
+    "tagline": "사진 속 주인공을 오래된 박물 도감에 들여 한 가지 잉크 점만으로 표본화를 그립니다.",
+    "look": "주인공은 가장 알아보기 쉬운 옆모습 표본 자세로 바뀌고, 모두 같은 검정에 가까운 잉크 점으로 찍어 그립니다. 어두운 곳은 거의 한 면이 될 만큼 빽빽하고, 넘어가는 부분은 점점 성기며, 빛 받는 면은 비워 두고 가장자리에만 가는 점을 한 줄 늘어놓아 화면에 이어진 실선은 하나도 없습니다. 점 크기는 거의 같고 배열에는 손작업의 고르지 않음이 있으며, 곁에 있는 물건 하나는 끊어진 점선 몇 줄로만 스쳐 지나갑니다. 주인공은 사진에서 옅게 뽑은 한 면의 연한 바탕 위에 대각선으로 놓이고, 잉크 외에 다른 색은 없습니다. 글자는 도감 항목처럼 왼쪽 위에 작은 번호와 두 언어의 속명, 아래에 이탤릭 세리프로 쓴 라틴어풍 학명과 분류어가 들어가며, 진지함 속에 작은 농담이 숨어 있습니다.",
+    "traits": [
+      "단색 잉크 점묘",
+      "이어진 선 없음",
+      "옆모습 표본 자세",
+      "연한 평칠 바탕",
+      "도감 속명",
+      "이탤릭 라틴어풍 학명"
+    ],
+    "good": [
+      "옆모습으로 알아볼 수 있는 동물: 코뿔소, 거북, 나뭇가지 위의 새",
+      "형태가 분명한 사물이나 식물: 오래된 자전거, 솔방울, 의자",
+      "구도가 평범하거나 배경이 어수선하거나 주인공이 작은 야외·거리 사진(단독으로 도감에 들입니다)"
+    ],
+    "poor": [
+      "색이나 정면 표정이 있어야 알아볼 수 있는 사진(잉크 한 색과 옆모습뿐입니다)",
+      "거리 전체, 풍경 전체, 여러 사람의 관계가 필요한 경우(단일 요소 하나만 그립니다)",
+      "사실적인 컬러 일러스트, 회색 번짐, 선 외곽선, 규칙적인 망점을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تنقيط الدليل الطبيعي",
+    "tagline": "يُدخل العنصر الرئيسي في صورتك إلى دليل قديم في التاريخ الطبيعي، مرسوماً نقطةً نقطة بحبر واحد.",
+    "look": "يُدار العنصر إلى أوضح وضعية جانبية له كعيّنة، ويُرسم كله بنقاط من حبر واحد قريب من الأسود: كثيفة حتى تكاد تصير مساحة مصمتة في الظلال، تتباعد تدريجياً في المناطق الانتقالية، وتُترك فارغة حيث يسقط الضوء إلا من صف واحد من النقاط الدقيقة على الحافة، ولا يوجد خط متصل واحد. النقاط متقاربة الحجم ومصفوفة بتفاوت اليد، والشيء الوحيد الذي بجانب العنصر يُختصر في بضعة خطوط منقّطة متقطّعة. يستقر العنصر مائلاً على قطر الصورة فوق أرضية فاتحة مسطّحة مأخوذة من لون الصورة، ولا لون غير الحبر. يُكتب النص كمدخل في دليل: رقم صغير واسم شائع بلغتين أعلى اليسار، وفي الأسفل اسم يشبه الأسماء العلمية اللاتينية بخط مائل مذيّل يتبعه اسم الفئة، بجدّية تخفي دعابة.",
+    "traits": [
+      "تنقيط بحبر واحد",
+      "بلا خطوط متصلة",
+      "وضعية عيّنة جانبية",
+      "أرضية فاتحة مسطّحة",
+      "اسم شائع كما في الأدلّة",
+      "اسم لاتيني زائف مائل"
+    ],
+    "good": [
+      "حيوانات يُعرف ظلّها الجانبي: وحيد قرن، سلحفاة، طائر على غصن",
+      "أشياء أو نباتات واضحة الشكل: دراجة قديمة، كوز صنوبر، كرسي",
+      "صور من الطبيعة أو الشارع ضعيفة التكوين أو بخلفية فوضوية أو بعنصر صغير، يُدخل عنصرها وحده إلى الدليل"
+    ],
+    "poor": [
+      "صور لا يُعرف عنصرها إلا بلونه أو بتعبير وجهه من الأمام، إذ لا يوجد إلا حبر واحد ومنظر جانبي",
+      "طلب شارع كامل أو منظر طبيعي كامل أو مجموعة أشخاص، إذ لا يُرسم إلا عنصر واحد",
+      "طلب رسم ملوّن واقعي أو تظليل رمادي ممسوح أو خطوط محيطة أو شبكة نقاط منتظمة"
+    ]
+  }
+}

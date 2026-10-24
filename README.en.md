@@ -1,161 +1,270 @@
 <div align="center">
 
-# XXD Panel 348｜图鉴墨点
+# XXD Panel 348｜Field-Guide Stipple
 
-Keep the photograph above. Below, the subject is admitted to an old natural-history field guide: turned to its most recognisable side-on specimen pose and drawn entirely in dots of one dark ink — almost solid in the shadows, only a single row of dots along the lit edges, never one continuous line — with the thing beside it reduced to a few broken dotted runs, on one flat pale ground tinted from the photo, and a straight-faced field-guide entry.
+**Admits the subject of your photo to an old field guide, drawn dot by dot in a single ink.**
 
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-> Original prompt (five-language entry): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
-
-## 16:9 Left–Right Samples
-
-Twenty Unsplash portrait photographs on twenty themes different from the top–bottom set, each rebuilt as one complete 16:9 left–right canvas. The photograph stays on the left; on the right is a stippled specimen plate on a pale ground, exact 50:50. The language again rotates through the five locales. The portrait themes favour tall, clearly posed birds, insects and plants, to show how the specimen still lies along a diagonal in a narrower half and leaves quiet space at the top left and bottom for the entry text.
-
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 348 sample 21 · Grey heron"><br><sub>21 · Grey heron</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 348 sample 22 · White stork"><br><sub>22 · White stork</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 348 sample 23 · Hummingbird"><br><sub>23 · Hummingbird</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 348 sample 24 · Woodpecker"><br><sub>24 · Woodpecker</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 348 sample 25 · Morpho butterfly"><br><sub>25 · Morpho butterfly</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 348 sample 26 · Praying mantis"><br><sub>26 · Praying mantis</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 348 sample 27 · Seahorse"><br><sub>27 · Seahorse</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 348 sample 28 · Chameleon"><br><sub>28 · Chameleon</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 348 sample 29 · Ostrich"><br><sub>29 · Ostrich</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 348 sample 30 · Kangaroo"><br><sub>30 · Kangaroo</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 348 sample 31 · Meerkat"><br><sub>31 · Meerkat</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 348 sample 32 · Bald eagle"><br><sub>32 · Bald eagle</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 348 sample 33 · Pelican"><br><sub>33 · Pelican</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 348 sample 34 · Giraffe profile"><br><sub>34 · Giraffe profile</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 348 sample 35 · Cactus flower"><br><sub>35 · Cactus flower</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 348 sample 36 · Dandelion"><br><sub>36 · Dandelion</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 348 sample 37 · Jellyfish"><br><sub>37 · Jellyfish</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 348 sample 38 · Raven"><br><sub>38 · Raven</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 348 sample 39 · Peacock"><br><sub>39 · Peacock</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 348 sample 40 · Robin"><br><sub>40 · Robin</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 348 · 01 · Rhino"><br><sub>01 · Rhino</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 348 · 02 · Elephant"><br><sub>02 · Elephant</sub></td>
   </tr>
 </table>
 
-## 3:4 Top–Bottom Samples
+<p align="center"><sub>Top: the original photo. Bottom: the same photo in this style.</sub></p>
 
-Twenty Unsplash landscape photographs with a clear subject, each rebuilt as one complete 3:4 top–bottom canvas. The photograph stays above; below is a stippled specimen plate on a pale ground, exact 50:50. The source brief sets no language, so the samples rotate through Simplified Chinese, English, Japanese, Korean and Arabic, and the model coins each common name from how the subject looks in that moment. Themes lean on animals with a clear profile, plus a few old objects and plants, to show how busy field photographs lose their surroundings, turn into side-on specimens and read volume and markings from dot density alone.
+## What it is
 
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 348 sample 01 · Rhino"><br><sub>01 · Rhino</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 348 sample 02 · Elephant"><br><sub>02 · Elephant</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 348 sample 03 · Tortoise"><br><sub>03 · Tortoise</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 348 sample 04 · Snail"><br><sub>04 · Snail</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 348 sample 05 · Beetle"><br><sub>05 · Beetle</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 348 sample 06 · Lizard"><br><sub>06 · Lizard</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 348 sample 07 · Crocodile"><br><sub>07 · Crocodile</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 348 sample 08 · Horse"><br><sub>08 · Horse</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 348 sample 09 · Wild boar"><br><sub>09 · Wild boar</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 348 sample 10 · Seal"><br><sub>10 · Seal</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 348 sample 11 · Hippo"><br><sub>11 · Hippo</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 348 sample 12 · Pangolin"><br><sub>12 · Pangolin</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 348 sample 13 · Crab"><br><sub>13 · Crab</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 348 sample 14 · Pelican"><br><sub>14 · Pelican</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 348 sample 15 · Bicycle"><br><sub>15 · Bicycle</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 348 sample 16 · Warthog"><br><sub>16 · Warthog</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 348 sample 17 · Pine cone"><br><sub>17 · Pine cone</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 348 sample 18 · Fern fiddlehead"><br><sub>18 · Fern fiddlehead</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 348 sample 19 · Whale tail"><br><sub>19 · Whale tail</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 348 sample 20 · Vulture"><br><sub>20 · Vulture</sub></td>
-  </tr>
-</table>
+A Skill for AI agents such as Claude Code and Codex. Give it a photo and it paints a finished PNG following the original Panel 348 prompt.
 
-## Best-fit situations and problems solved
+- **What it looks like:** The subject is turned to its most recognisable side-on specimen pose and drawn entirely in dots of one near-black ink: almost solid in the shadows, thinning through the transitions, left empty where the light falls with just a single row of fine dots along the edge, and never one continuous line. The dots are nearly the same size and set with a hand's unevenness, and the one thing beside the subject is reduced to a few broken dotted runs. The subject lies diagonally on one flat pale ground tinted from the photo, with no colour other than the ink. Text follows a field-guide entry: a small number and a common name in two languages at top left, and along the bottom an italic serif pseudo-Latin name plus a category word, straight-faced with a hidden joke.
+- **Keywords:** One-ink stippling · No continuous lines · Side-on specimen pose · Flat pale ground · Field-guide common name · Italic pseudo-Latin name
+- **What you can make:** A top–bottom comparison (photo above, design below), a left–right comparison, the design alone, or a wallpaper set for phone, tablet, desktop and watch. Pick several at once, at any ratio or exact pixel size.
+- **What it is not:** Not a filter and not a template: every image is redrawn from your photo, and each photo is its own job.
 
-For photographs with one clear subject that has a recognisable side profile: a rhino, a tortoise, a bird on a branch, an old bicycle, a pine cone. It also rescues weak compositions, busy backgrounds or tiny subjects shot in the field — the lower half deletes the surroundings, turns the subject to its most telling side-on specimen pose and keeps only the one thing at its feet or beside it, turning the photo into a convincing field-guide plate. When the photograph is a scene, only its most representative single object or fragment is drawn.
+## Get started in three steps
 
-The key is that everything is dotted in one dark ink: dense in the shadows, thinning through the transitions, lit faces left blank with a single row of fine dots at the edge, and no continuous line anywhere; dots nearly equal in size, slightly irregular, never in a grid; one flat pale ground tinted from the photo's most distinctive colour and no second colour besides the ink. The text follows a field guide: a tiny entry number and a two-language common name at the top left, and a letter-spaced italic serif pseudo-Latin name with a category word along the bottom. Avoid a full-scene copy, dots joining into outlines, grey washes or flat fills, gridded dots, a second colour, realistic colour illustration, sparse even dots that blur the form, and text crowding the subject.
-
-## Usage tips
-
-- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
-- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
-- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
-- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
-- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
-- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
-
-## Getting started
-
-Install from GitHub:
+**1. Install.** Works with Claude Code, Codex and other agents that support Skills:
 
 ```bash
 npx skills add https://github.com/nevertoday/xxd-panel-348 --skill xxd-panel-348
 ```
 
-Restart the agent session after installation, then invoke `$xxd-panel-348`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
+Then restart your agent session. You can also `git clone` this repository and link the folder to `~/.claude/skills/xxd-panel-348` or `~/.codex/skills/xxd-panel-348`.
 
-Common examples:
+**2. Make sure your agent can generate images.** This Skill has no image model of its own; it uses your agent's image generation, preferably GPT Image 2.
+
+- Codex works as is when its built-in image generation is on.
+- Claude Code and other agents without built-in image generation need an OpenAI-compatible image API. It takes about five minutes: see [Setting up image generation](#setting-up-image-generation).
+
+Not sure? Just try it. If images can't be generated, the Skill stops and tells you before doing any work.
+
+**3. Send a photo and say one sentence:**
+
+> Use xxd-panel-348 to turn this photo into a 3:4 top–bottom poster with an English title.
+
+If your request is complete, it starts right away; anything you left out (layout, ratio, text) it asks about, usually in one or two questions. Results are PNGs in a new folder under `~/Desktop/xxd/xxd-panel-348/`.
+
+## Which photos work best
+
+**Works well**
+
+- Animals with a recognisable side view: a rhino, a tortoise, a bird on a branch
+- Objects or plants with a clear shape: an old bicycle, a pine cone, a chair
+- Wild or street photos with weak composition, messy backgrounds or a small subject, which get admitted to the guide on their own
+
+**Not a good fit**
+
+- Photos that need colour or a front-on expression to be recognised, since there is only one ink and a side view
+- Requests for a whole street, landscape or group of people, since only one element is drawn
+- Requests for realistic colour illustration, grey washes, line outlines or an even halftone grid
+
+## Samples
+
+Each image below is a finished result this Skill made from one photo. The top–bottom and left–right sets use different photos.
+
+### Top–bottom: photo above, design below
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-01.png" alt="XXD Panel 348 · 01 · Rhino"><br><sub>01 · Rhino</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-02.png" alt="XXD Panel 348 · 02 · Elephant"><br><sub>02 · Elephant</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-03.png" alt="XXD Panel 348 · 03 · Tortoise"><br><sub>03 · Tortoise</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-04.png" alt="XXD Panel 348 · 04 · Snail"><br><sub>04 · Snail</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary>Show 16 more</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 348 · 05 · Beetle"><br><sub>05 · Beetle</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 348 · 06 · Lizard"><br><sub>06 · Lizard</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 348 · 07 · Crocodile"><br><sub>07 · Crocodile</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 348 · 08 · Horse"><br><sub>08 · Horse</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 348 · 09 · Wild boar"><br><sub>09 · Wild boar</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 348 · 10 · Seal"><br><sub>10 · Seal</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 348 · 11 · Hippo"><br><sub>11 · Hippo</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 348 · 12 · Pangolin"><br><sub>12 · Pangolin</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 348 · 13 · Crab"><br><sub>13 · Crab</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 348 · 14 · Pelican"><br><sub>14 · Pelican</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 348 · 15 · Bicycle"><br><sub>15 · Bicycle</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 348 · 16 · Warthog"><br><sub>16 · Warthog</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 348 · 17 · Pine cone"><br><sub>17 · Pine cone</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 348 · 18 · Fern fiddlehead"><br><sub>18 · Fern fiddlehead</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 348 · 19 · Whale tail"><br><sub>19 · Whale tail</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 348 · 20 · Vulture"><br><sub>20 · Vulture</sub></td>
+  </tr>
+</table>
+
+</details>
+
+### Left–right: photo left, design right
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 348 · 21 · Grey heron"><br><sub>21 · Grey heron</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 348 · 22 · White stork"><br><sub>22 · White stork</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 348 · 23 · Hummingbird"><br><sub>23 · Hummingbird</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 348 · 24 · Woodpecker"><br><sub>24 · Woodpecker</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary>Show 16 more</summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 348 · 25 · Morpho butterfly"><br><sub>25 · Morpho butterfly</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 348 · 26 · Praying mantis"><br><sub>26 · Praying mantis</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 348 · 27 · Seahorse"><br><sub>27 · Seahorse</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 348 · 28 · Chameleon"><br><sub>28 · Chameleon</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 348 · 29 · Ostrich"><br><sub>29 · Ostrich</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 348 · 30 · Kangaroo"><br><sub>30 · Kangaroo</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 348 · 31 · Meerkat"><br><sub>31 · Meerkat</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 348 · 32 · Bald eagle"><br><sub>32 · Bald eagle</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 348 · 33 · Pelican"><br><sub>33 · Pelican</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 348 · 34 · Giraffe profile"><br><sub>34 · Giraffe profile</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 348 · 35 · Cactus flower"><br><sub>35 · Cactus flower</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 348 · 36 · Dandelion"><br><sub>36 · Dandelion</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 348 · 37 · Jellyfish"><br><sub>37 · Jellyfish</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 348 · 38 · Raven"><br><sub>38 · Raven</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 348 · 39 · Peacock"><br><sub>39 · Peacock</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 348 · 40 · Robin"><br><sub>40 · Robin</sub></td>
+  </tr>
+</table>
+
+</details>
+
+## Just say it
+
+No parameters to memorise. Say what you want:
+
+| You want | Say |
+|---|---|
+| Top–bottom comparison | Make a 3:4 top–bottom comparison |
+| Left–right comparison | Make a 16:9 left–right comparison, photo on the left |
+| Design only | Just the design, no photo, 9:16 portrait |
+| A wallpaper set | Make matching wallpapers for phone, tablet, desktop and watch |
+| Several ratios | Make this one at 1:1, 3:4 and 16:9 |
+| Your own text | Use the title “Let the wind pass through” exactly as written |
+| No text | No text at all |
+| Text language | Write the text in Japanese |
+| A whole folder | Turn every photo in this folder into a top–bottom comparison |
+| Same as last time | Use my settings from last time |
+
+Prefer the command line? The flags map one to one:
 
 ```text
 /xxd-panel-348 photo.jpg --mode top-bottom --size 3:4 --text prompt --locale en-US
-/xxd-panel-348 photo.jpg --mode left-right --size 16:9 --text prompt --locale en-US
-/xxd-panel-348 photo.jpg --mode design-only --size 9:16 --text none --prefs off
-/xxd-panel-348 ./photos --mode design-only --size auto,3:4 --text prompt --locale ja-JP
+/xxd-panel-348 photo.jpg --mode design-only --size 9:16 --text none
+/xxd-panel-348 ./photos --mode left-right --size 16:9 --text prompt --locale ja-JP
 ```
 
-See [SKILL.md](SKILL.md) for the full runtime contract and the [English](references/xxd-panel-348-prompt.en.md) or [Chinese](references/xxd-panel-348-prompt.zh-CN.md) runtime adapter.
+All flags are listed under [Parameters](#parameters).
+
+## FAQ
+
+**Does the original photo have to appear?** No. Ask for “design only” or a wallpaper set and the whole canvas is design.
+
+**Who writes the text?** By default the image model writes it from your photo; you only choose the language. Give your own words and they are used exactly; or ask for no text. Anything that looks factual (places, dates, numbers) comes only from you or from what is visible in the photo, never invented.
+
+**What if I don't like the result?** Say “one more”. It redraws from the original photo instead of editing the last result, so every attempt is different.
+
+**Do photos in a batch mix together?** No. Each photo is generated on its own and never borrows another photo's colours, text or layout. Settings are asked once for the whole batch.
+
+**Where do my photos go?** Only to the image model your agent uses. The Skill uploads nothing elsewhere and never prints endpoints or keys.
+
+**How does this relate to other Panels?** XXD Panels are a family of styles, one per number, fully independent; install only the ones you like. To have AI recommend a style for a photo, or compare several at once, use the catalog [xxd-panel-all](https://github.com/nevertoday/xxd-panel-all).
 
 ## Original prompt
 
-The [complete Chinese source](references/original-prompt/zh-CN.md) is preserved verbatim and is the sole creative and aesthetic authority at runtime. This batch provides five-language usage documentation, without four additional long-form translations. Style summaries are for discovery only and never replace the source.
+This style is defined entirely by Xiaoxiaodong's [original prompt](references/original-prompt/zh-CN.md) (in Chinese). The Skill only appends the layout, size and text settings you choose; it never summarises, translates or rewrites the prompt.
 
-## Quick fit check
+Reading translations (for reading only; never sent to the image model): [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
 
-Keep the source identity while redirecting composition; retain the material signature while actively leaving space. Choose exact text, generated copy or no text, with single-image or recursive directory processing and the four delivery modes below.
+## Setting up image generation
 
-## Four output modes
+You need an OpenAI-compatible API that serves `gpt-image-2` (or a compatible model) and its API key. This creates a separate config and leaves your Codex settings alone:
 
-- `top-bottom`: exactly two full-width regions, reality above and design below, 50% each.
-- `left-right`: exactly two full-height regions, reality left and design right, 50% each; it never rotates into a top-bottom layout.
-- `design-only`: the full canvas contains only Panel 348's designed translation; the photograph remains a non-visible reference.
-- `wallpaper-pack`: creates complete artworks for phone, iPad, desktop, and watch, either `linked` as a coherent family or `independent` as four separate works.
+```bash
+mkdir -p ~/.xxd-imagegen
+cat > ~/.xxd-imagegen/config.toml <<'EOF'
+model_provider = "image"
 
-Modes and sizes may be combined. Supported sizes include `1:1`, `3:4`, `4:3`, `4:5`, `5:4`, `2:3`, `3:2`, `9:16`, `16:9`, `21:9`, `5:7`, `7:5`, and exact pixels. Text can be prompt-generated, user-exact, or absent. A directory is inventoried recursively and every source is isolated while sharing one set of delivery settings; final PNG files remain flat in one fresh task directory.
+[model_providers.image]
+base_url = "https://api.openai.com/v1"   # or your compatible endpoint
+env_key = "XXD_IMAGE_API_KEY"
+EOF
+
+# add to ~/.zshrc or ~/.bashrc so your agent can read them
+echo 'export XXD_IMAGEGEN_CODEX_DIR=~/.xxd-imagegen' >> ~/.zshrc
+echo 'export XXD_IMAGE_API_KEY=your-key' >> ~/.zshrc
+```
+
+Reopen your terminal and agent, then check once from this Skill's folder:
+
+```bash
+python3 scripts/configured_imagegen.py probe
+```
+
+`"ok":true` means it works. The check only reports readiness; it never prints the endpoint or key. If your Codex already generates images through a compatible API, skip this step.
+
+## Parameters
+
+| Flag | Values |
+|---|---|
+| `--mode` | `top-bottom` · `left-right` · `design-only` · `wallpaper-pack` (phone, tablet, desktop, watch); combine freely |
+| `--size` | `auto` recommended · `source` match the photo · `1:1` `3:4` `4:3` `4:5` `5:4` `2:3` `3:2` `9:16` `16:9` `21:9` `5:7` `7:5` · exact pixels such as `2160x3840`; combine freely |
+| `--text` | `prompt` written from the photo · `exact` your words (with `--copy "…"`) · `none` no text |
+| `--locale` | text language, e.g. `zh-CN` `en-US` `ja-JP` `ko-KR` `ar` |
+| `--wallpaper` | `linked` a matching set · `independent` four separate designs |
+| `--wallpaper-size` | device pixels, e.g. `phone=1440x3200,desktop=3840x2160` |
+| `--out` | another output root (default `~/Desktop/xxd/xxd-panel-348/`) |
+| `--prefs` | `last` reuse · `edit` start from last time · `new` choose again · `off` don't remember this time · `clear` forget |
+
+- With every value given, nothing is asked; otherwise only the missing values are. Pass a folder instead of `photo.jpg` to batch.
+- Combinations are generated one by one: 2 modes × 3 sizes = 6 images, each composed for its own canvas rather than cropped.
+- Comparisons are exactly 50:50. Usually the model paints only the design half and a script places the untouched photo beside it, so the split is centred and the photo is unchanged.
+- Files are named like `source-001-street-top-bottom-3x4-1152x1536.png`, all in one flat task folder.
+- Only layout, size, text mode and language are remembered, never photos, copy or keys.
 
 <!-- xxd-readme-ads:start -->
 ## About XXD
